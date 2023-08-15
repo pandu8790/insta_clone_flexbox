@@ -27,6 +27,7 @@ body{
 }
 .logo{
     padding: 10px;
+    padding-bottom:10px;
     position:fixed;
     top: 0;
     font-size: 25px;
